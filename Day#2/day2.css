@@ -1,0 +1,29 @@
+body{
+    background: aliceblue;
+    margin: 0;
+    padding: 0;
+}
+
+.linhas{
+    height: 100px;
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 15em;
+    margin-left: 40em;
+    padding: 50px;
+    background-color: black;
+    border-radius: 20px;
+}
+
+.container{
+    width: 100px;
+    padding: 5px;
+    border-radius: 20px;
+    background-color: white;
+    margin: auto;
+}
+
+
